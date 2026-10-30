@@ -6,7 +6,7 @@
 
 <br>
 
-### 🌸 Bernice Elorm | Research Assistant & Bioinformatics Explorer
+### 🌸 Bernice Elorm Korsinah | Research Assistant & Bioinformatics Explorer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=48CAE4&center=true&vCenter=true&width=650&lines=Exploring+the+world+of+microbiomes+%F0%9F%A7%AC;Learning+computational+biology+%F0%9F%92%BB;Curious+about+how+life+works+%F0%9F%94%AC;Learning+by+doing.+Building+as+I+go.+%F0%9F%8C%B1" />
 
